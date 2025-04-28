@@ -37,6 +37,7 @@ common TOken Level correction: precision:0.9797, recall:0.9828, f1:0.9812
  - 其中训练数据130753条, 验证数据5545条, 测试数据5545条;
  - 句子平均长度为36, 最长句子长度为414, 最短为5, 95%的为89, 75%的为46, 60%的为34;
  - 每个句子中字的平均错误数为2;
+ - 全量数据在HF(包括train.json)：[https://huggingface.co/datasets/Macropodus/csc_public_de3](https://huggingface.co/datasets/Macropodus/csc_public_de3)
 
 
 ## 数据详情
